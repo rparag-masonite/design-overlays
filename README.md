@@ -12,5 +12,5 @@ Use the SVG's to overlay on top of a base image of the respective door configura
   - [x] sl-dd
   - [x] dd-sl
   - [x] sl-dd-sl
-- [-] Scrub `width` and `height` from each SVG
+- [ ] Scrub `width` and `height` from each SVG
 - [x] Scrub `fill` from SVG
