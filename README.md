@@ -2,6 +2,8 @@
 
 Use the SVG's to overlay on top of a base image of the respective door configuration.
 
+[CodePen Example](https://codepen.io/ryanparag/pen/a2ef8c9a50ce3f0f079b0502d76c5b0b)
+
 ## TODO
 - [x] Door Images
   - [x] d
